@@ -1,0 +1,9 @@
+spark-class repo:
+https://github.com/spark-classes/hw2-git-introduction-triticumWheat
+
+clear description of the tasks you have worked on:
+1. I have create a repo
+2. I have uses git add, git commit, git push to make changes to repos
+3. I have create a new branch and rebase the main branch according to it
+4. I've fork the repo and add my own feature branch
+5. I've making a pull request to the upstream repo
